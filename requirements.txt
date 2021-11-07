@@ -1,5 +1,2 @@
-keras
-sklearn
-matplotlib
-seaborg
+pickle
 streamlit
