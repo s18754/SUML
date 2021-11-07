@@ -1,4 +1,4 @@
-teras
+kteras
 sklearn
 matplotlib
 seaborg
