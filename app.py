@@ -4,7 +4,7 @@ from datetime import datetime
 startTime = datetime.now()
 # import znanych nam bibliotek
 
-filename = 'C:/Users/s18754/Desktop/drive-download-20211107T120910Z-001/model2.sv'
+filename = 'model2.sv'
 model = pickle.load(open(filename,'rb'))
 # otwieramy wcześniej wytrenowany model
 
